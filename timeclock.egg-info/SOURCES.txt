@@ -1,0 +1,15 @@
+setup.py
+timeclock/__init__.py
+timeclock/main.py
+timeclock.egg-info/PKG-INFO
+timeclock.egg-info/SOURCES.txt
+timeclock.egg-info/dependency_links.txt
+timeclock.egg-info/entry_points.txt
+timeclock.egg-info/requires.txt
+timeclock.egg-info/top_level.txt
+timeclock/client/__init__.py
+timeclock/client/app.py
+timeclock/database/__init__.py
+timeclock/database/db.py
+timeclock/database/documents/__init__.py
+timeclock/database/documents/user.py
