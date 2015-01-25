@@ -16,5 +16,3 @@ setup(
             'timeclock-start = timeclock.main:main'
         ]
     })
-
-# Example setup:
