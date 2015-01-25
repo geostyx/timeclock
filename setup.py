@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 
+# etc
 setup(
     name='timeclock',
     version='0.1.1.dev',
